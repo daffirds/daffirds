@@ -1,6 +1,6 @@
 # Daffa
 
-hey, i'm daffa.
+hey! i'm daffa.
 
 currently working as a forward deployed engineer at [staffinc](https://staffinc.co).
 
